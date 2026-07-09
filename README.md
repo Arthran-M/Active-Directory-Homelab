@@ -2,7 +2,9 @@
 
 
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+This project involed building a simulated enterprise business network using six virtual machines to recreate a realistic on-premises IT environment. The lab 
+consisted of a Windows Server Active Directory Domain Controller, Windows and Linux client workstations, a dedicated Ubuntu email server and Wazuh host, as well as a 
+Kali Linux attacker machine.
 <br />
 
 
@@ -20,10 +22,10 @@ Project consists of a simple PowerShell script that walks the user through "zero
 <h2>Environments Used </h2>
 
 - <b>Windows Server 2025</b> 
-- <b>Windows 11 Enterprise</b> (21H2)
-- <b>Ubuntu Desktop</b> (22.04)
-- <b>Ubuntu Server 2022</b> (21H2)
-- <b>Kali Linux</b> (21H2)
+- <b>Windows 11 Enterprise</b> 
+- <b>Ubuntu Desktop</b> 
+- <b>Ubuntu Server 2022</b> 
+- <b>Kali Linux</b> 
 
 
 <h2>Program walk-through:</h2>
