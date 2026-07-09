@@ -70,7 +70,7 @@ Wazuh agent configuration files defining  policies for Linux endpoint group:  <b
 <img src="https://github.com/Arthran-M/Arthran-M/blob/a6ff3d61cae33e7a636015945ab868d76cb94359/Screenshots/image08.png" alt="image alt" width="80%" height="80%">
 <br />
 <br />
-Wazuh monitoring setup:  <br/>
+Monitoring configuration:  <br/>
 <img src="https://github.com/Arthran-M/Arthran-M/blob/a6ff3d61cae33e7a636015945ab868d76cb94359/Screenshots/image04.png" alt="image alt" width="80%" height="80%">
 <br />
 <br />
