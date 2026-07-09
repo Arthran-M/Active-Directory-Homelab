@@ -43,21 +43,18 @@ and security operations workflows within a controlled lab environment.
 - <b>Ubuntu Server 2022</b> 
 - <b>Kali Linux</b> 
 
-<h2>Topology:</h2>
-
+<h2>Layout:</h2>
 
 
 
 
 <h2>Environment Configuration</h2>
 
-
 <h2>Attack Simulations</h2>
-
-
 
 <h2>Detection and Monitoring</h2>
 
+<h2>Lessons Learned</h2>
 
 
 
