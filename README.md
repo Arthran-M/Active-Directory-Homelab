@@ -49,138 +49,135 @@ and security operations workflows within a controlled lab environment.
 
 
 <h2>Environment Configuration</h2>
-<p align="center">
-  
+<p align="center">  
 Launch the utility: <br/>
 <img src="https://github.com/Arthran-M/Arthran-M/blob/a6ff3d61cae33e7a636015945ab868d76cb94359/Screenshots/image.png" alt="image alt" width="80%" height="80%">
 <br />
 <br />
 Select the disk:  <br/>
 <img src="https://github.com/Arthran-M/Arthran-M/blob/a6ff3d61cae33e7a636015945ab868d76cb94359/Screenshots/image02.png" alt="image alt" width="80%" height="80%">
-
 <br />
 <br />
 Select the disk:  <br/>
 <img src="https://github.com/Arthran-M/Arthran-M/blob/a6ff3d61cae33e7a636015945ab868d76cb94359/Screenshots/image03.png" alt="image alt" width="80%" height="80%">
-
 <br />
 <br />
 Select the disk:  <br/>
 <img src="https://github.com/Arthran-M/Arthran-M/blob/a6ff3d61cae33e7a636015945ab868d76cb94359/Screenshots/image07.png" alt="image alt" width="80%" height="80%">
 <br />
 <br />
+Select the disk:  <br/>
 <img src="https://github.com/Arthran-M/Arthran-M/blob/a6ff3d61cae33e7a636015945ab868d76cb94359/Screenshots/image08.png" alt="image alt" width="80%" height="80%">
 <br />
 <br />
+Select the disk:  <br/>
 <img src="https://github.com/Arthran-M/Arthran-M/blob/a6ff3d61cae33e7a636015945ab868d76cb94359/Screenshots/image04.png" alt="image alt" width="80%" height="80%">
 <br />
 <br />
+</p>
+
+
 
 <h2>Attack Simulations</h2>
-
+<p align="center">  
+Launch the utility: <br/>
 <img src="https://github.com/Arthran-M/Arthran-M/blob/a6ff3d61cae33e7a636015945ab868d76cb94359/Screenshots/image10.png" alt="image alt" width="80%" height="80%">
 <br />
 <br />
+Launch the utility: <br/>
 <img src="https://github.com/Arthran-M/Arthran-M/blob/a6ff3d61cae33e7a636015945ab868d76cb94359/Screenshots/image11.png" alt="image alt" width="80%" height="80%">
 <br />
 <br />
+Launch the utility: <br/>
 <img src="https://github.com/Arthran-M/Arthran-M/blob/a6ff3d61cae33e7a636015945ab868d76cb94359/Screenshots/image12.png" alt="image alt" width="80%" height="80%">
 <br />
 <br />
+Launch the utility: <br/>
 <img src="https://github.com/Arthran-M/Arthran-M/blob/a6ff3d61cae33e7a636015945ab868d76cb94359/Screenshots/image14.png" alt="image alt" width="80%" height="80%">
 <br />
 <br />
+Launch the utility: <br/>
 <img src="https://github.com/Arthran-M/Arthran-M/blob/a6ff3d61cae33e7a636015945ab868d76cb94359/Screenshots/image15.png" alt="image alt" width="80%" height="80%">
 <br />
 <br />
+Launch the utility: <br/>
 <img src="https://github.com/Arthran-M/Arthran-M/blob/a6ff3d61cae33e7a636015945ab868d76cb94359/Screenshots/image16.png" alt="image alt" width="80%" height="80%">
 <br />
 <br />
+Launch the utility: <br/>
 <img src="https://github.com/Arthran-M/Arthran-M/blob/a6ff3d61cae33e7a636015945ab868d76cb94359/Screenshots/image17.png" alt="image alt" width="80%" height="80%">
 <br />
 <br />
+Launch the utility: <br/>
 <img src="https://github.com/Arthran-M/Arthran-M/blob/a6ff3d61cae33e7a636015945ab868d76cb94359/Screenshots/image18.png" alt="image alt" width="80%" height="80%">
 <br />
 <br />
+Launch the utility: <br/>
 <img src="https://github.com/Arthran-M/Arthran-M/blob/a6ff3d61cae33e7a636015945ab868d76cb94359/Screenshots/image19.png" alt="image alt" width="80%" height="80%">
 <br />
 <br />
+Launch the utility: <br/>
 <img src="https://github.com/Arthran-M/Arthran-M/blob/a6ff3d61cae33e7a636015945ab868d76cb94359/Screenshots/image21.png" alt="image alt" width="80%" height="80%">
 <br />
 <br />
+Launch the utility: <br/>
 <img src="https://github.com/Arthran-M/Arthran-M/blob/a6ff3d61cae33e7a636015945ab868d76cb94359/Screenshots/image22.png" alt="image alt" width="80%" height="80%">
 <br />
 <br />
+Launch the utility: <br/>
 <img src="https://github.com/Arthran-M/Arthran-M/blob/a6ff3d61cae33e7a636015945ab868d76cb94359/Screenshots/image22.png" alt="image alt" width="80%" height="80%">
 <br />
 <br />
+Launch the utility: <br/>
 <img src="https://github.com/Arthran-M/Arthran-M/blob/a6ff3d61cae33e7a636015945ab868d76cb94359/Screenshots/image23.png" alt="image alt" width="80%" height="80%">
 <br />
 <br />
+Launch the utility: <br/>
 <img src="https://github.com/Arthran-M/Arthran-M/blob/a6ff3d61cae33e7a636015945ab868d76cb94359/Screenshots/image24.png" alt="image alt" width="80%" height="80%">
 <br />
 <br />
+Launch the utility: <br/>
 <img src="https://github.com/Arthran-M/Arthran-M/blob/a6ff3d61cae33e7a636015945ab868d76cb94359/Screenshots/image25.png" alt="image alt" width="80%" height="80%">
 <br />
 <br />
+Launch the utility: <br/>
 <img src="https://github.com/Arthran-M/Arthran-M/blob/a6ff3d61cae33e7a636015945ab868d76cb94359/Screenshots/image26.png" alt="image alt" width="80%" height="80%">
 <br />
 <br />
+Launch the utility: <br/>
 <img src="https://github.com/Arthran-M/Arthran-M/blob/a6ff3d61cae33e7a636015945ab868d76cb94359/Screenshots/image27.png" alt="image alt" width="80%" height="80%">
 <br />
 <br />
+Launch the utility: <br/>
 <img src="https://github.com/Arthran-M/Arthran-M/blob/a6ff3d61cae33e7a636015945ab868d76cb94359/Screenshots/image28.png" alt="image alt" width="80%" height="80%">
 <br />
 <br />
+Launch the utility: <br/>
 <img src="https://github.com/Arthran-M/Arthran-M/blob/a6ff3d61cae33e7a636015945ab868d76cb94359/Screenshots/image29.png" alt="image alt" width="80%" height="80%">
 <br />
 <br />
+Launch the utility: <br/>
 <img src="https://github.com/Arthran-M/Arthran-M/blob/a6ff3d61cae33e7a636015945ab868d76cb94359/Screenshots/image01.png" alt="image alt" width="80%" height="80%">
+</p>
+
 
 
 <h2>Detection and Monitoring</h2>
-
+<p align="center">  
+Launch the utility: <br/>
 <img src="https://github.com/Arthran-M/Arthran-M/blob/a6ff3d61cae33e7a636015945ab868d76cb94359/Screenshots/image30.png" alt="image alt" width="80%" height="80%">
 <br />
 <br />
+Launch the utility: <br/>
 <img src="https://github.com/Arthran-M/Arthran-M/blob/a6ff3d61cae33e7a636015945ab868d76cb94359/Screenshots/image31.png" alt="image alt" width="80%" height="80%">
+</p>
+
 
 <h2>Lessons Learned</h2>
 
 
 
 
-</p>
 
-<h2>Program walk-through:</h2>
-
-<p align="center">
-Launch the utility: 
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
 
 
