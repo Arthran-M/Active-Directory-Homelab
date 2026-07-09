@@ -6,14 +6,25 @@ Project consists of a simple PowerShell script that walks the user through "zero
 <br />
 
 
-<h2>Languages and Utilities Used</h2>
+<h2>Tools Used</h2>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
+- <b>Microsoft Active Directory</b> 
+- <b>Wazuh SIEM</b>
+- <b>Mailhog</b>
+- <b>Evil-WinRM</b>
+- <b>Hydra</b>
+- <b>NetExec</b>
+- <b>XFreeRDP</b>
+
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
+- <b>Windows Server 2025</b> 
+- <b>Windows 11 Enterprise</b> (21H2)
+- <b>Ubuntu Desktop</b> (22.04)
+- <b>Ubuntu Server 2022</b> (21H2)
+- <b>Kali Linux</b> (21H2)
+
 
 <h2>Program walk-through:</h2>
 
