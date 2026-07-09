@@ -24,7 +24,7 @@ and security operations workflows within a controlled lab environment.
 
 
 
-<h2>Tools Used</h2>
+<h2>Tools Used:</h2>
 
 - <b>Microsoft Active Directory</b> 
 - <b>Wazuh SIEM</b>
@@ -35,7 +35,7 @@ and security operations workflows within a controlled lab environment.
 - <b>XFreeRDP</b>
 
 
-<h2>Environments Used</h2>
+<h2>Environments Used:</h2>
 
 - <b>Windows Server 2025</b> 
 - <b>Windows 11 Enterprise</b> 
