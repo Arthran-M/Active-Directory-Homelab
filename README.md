@@ -50,27 +50,27 @@ and security operations workflows within a controlled lab environment.
 
 <h2>Environment Configuration</h2>
 <p align="center">  
-Launch the utility: <br/>
+The domain that has been created: <br/>
 <img src="https://github.com/Arthran-M/Arthran-M/blob/a6ff3d61cae33e7a636015945ab868d76cb94359/Screenshots/image.png" alt="image alt" width="80%" height="80%">
 <br />
 <br />
-Select the disk:  <br/>
+Systems that have joined the domain within the enterprise environment:  <br/>
 <img src="https://github.com/Arthran-M/Arthran-M/blob/a6ff3d61cae33e7a636015945ab868d76cb94359/Screenshots/image02.png" alt="image alt" width="80%" height="80%">
 <br />
 <br />
-Select the disk:  <br/>
+Sucessfully deployed Wazuh agents:  <br/>
 <img src="https://github.com/Arthran-M/Arthran-M/blob/a6ff3d61cae33e7a636015945ab868d76cb94359/Screenshots/image03.png" alt="image alt" width="80%" height="80%">
 <br />
 <br />
-Select the disk:  <br/>
+Wazuh agent configuration files defining  policies for Windows endpoint groups:  <br/>
 <img src="https://github.com/Arthran-M/Arthran-M/blob/a6ff3d61cae33e7a636015945ab868d76cb94359/Screenshots/image07.png" alt="image alt" width="80%" height="80%">
 <br />
 <br />
-Select the disk:  <br/>
+Wazuh agent configuration files defining  policies for Linux endpoint group:  <br/>
 <img src="https://github.com/Arthran-M/Arthran-M/blob/a6ff3d61cae33e7a636015945ab868d76cb94359/Screenshots/image08.png" alt="image alt" width="80%" height="80%">
 <br />
 <br />
-Select the disk:  <br/>
+Wazuh monitoring setup:  <br/>
 <img src="https://github.com/Arthran-M/Arthran-M/blob/a6ff3d61cae33e7a636015945ab868d76cb94359/Screenshots/image04.png" alt="image alt" width="80%" height="80%">
 <br />
 <br />
