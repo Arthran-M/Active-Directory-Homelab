@@ -35,13 +35,31 @@ and security operations workflows within a controlled lab environment.
 - <b>XFreeRDP</b>
 
 
-<h2>Environments Used </h2>
+<h2>Environments Used</h2>
 
 - <b>Windows Server 2025</b> 
 - <b>Windows 11 Enterprise</b> 
 - <b>Ubuntu Desktop</b> 
 - <b>Ubuntu Server 2022</b> 
 - <b>Kali Linux</b> 
+
+<h2>Topology:</h2>
+
+
+
+
+
+<h2>Environment Configuration</h2>
+
+
+<h2>Attack Simulations</h2>
+
+
+
+<h2>Detection and Monitoring</h2>
+
+
+
 
 
 <h2>Program walk-through:</h2>
@@ -75,12 +93,4 @@ Observe the wiped disk:  <br/>
 <img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
+
