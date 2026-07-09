@@ -2,10 +2,26 @@
 
 
 <h2>Description</h2>
-This project involed building a simulated enterprise business network using six virtual machines to recreate a realistic on-premises IT environment. The lab 
+
+<p>
+This project involved building a simulated enterprise business network using six virtual machines to recreate a realistic on-premises IT environment. The lab 
 consisted of a Windows Server Active Directory Domain Controller, Windows and Linux client workstations, a dedicated Ubuntu email server and Wazuh host, as well as a 
 Kali Linux attacker machine.
-<br />
+</p>
+
+<p>
+The Active Directory Domain Controller provided core enterprise services including DNS, DHCP and Single Sign On (SSO), which allowed for centralised identity 
+and access management for doamin-joined systems. 
+After provisioning and configuring the infrastructure, the lab was used to simulate common attack scenarios against the enterprise environment. These included 
+phishing-based credential capture, brute force authentication attacks and remote administration using WinRM and RDP. Wazuh was used to collect the resulting security events, demonstrating 
+how endpoint activity and authentication events can be monitored within a centralised SIEM. 
+</p>
+
+<p>
+The primary objective of this project was to develop practical experience with enterprise infrastructure, Active Directory administration, Windows and Linux system management, virtual networking, SIEM deployment
+and security operations workflows within a controlled lab environment.
+</p>
+
 
 
 <h2>Tools Used</h2>
