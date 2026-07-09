@@ -4,9 +4,9 @@
 <h2>Description</h2>
 
 <p>
-This project involved building a simulated enterprise business network using six virtual machines to recreate a realistic on-premises IT environment. The lab 
-consisted of a Windows Server Active Directory Domain Controller, Windows and Linux client workstations, a dedicated Ubuntu email server and Wazuh host, as well as a 
-Kali Linux attacker machine.
+This project involved building a simulated enterprise business network using six virtual machines connected through a private NAT network to recreate a realistic on-premises IT environment. The lab 
+consisted of a Windows Server Active Directory Domain Controller, Windows and Linux client workstations, a dedicated Ubuntu email server, as well as a 
+Kali Linux attacker machine. A dedicated machine was configured to host Wazu, which was used for centralised security monitoring, log collection, endpoint detection and response (EDR/XDR) capabilities and vulnerability detection.
 </p>
 
 <p>
