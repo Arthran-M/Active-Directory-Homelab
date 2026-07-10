@@ -80,43 +80,43 @@ Monitoring configuration:  <br/>
 
 <h2>Attack Simulations</h2>
 <p align="center">  
-Launch the utility: <br/>
+Using Hydra with a custom password list to perform the credential brute force attack: <br/>
 <img src="https://github.com/Arthran-M/Arthran-M/blob/a6ff3d61cae33e7a636015945ab868d76cb94359/Screenshots/image10.png" alt="image alt" width="80%" height="80%">
 <br />
 <br />
-Launch the utility: <br/>
+Successful authentication in the corporate server, resulting in root-level access  <br/>
 <img src="https://github.com/Arthran-M/Arthran-M/blob/a6ff3d61cae33e7a636015945ab868d76cb94359/Screenshots/image11.png" alt="image alt" width="80%" height="80%">
 <br />
 <br />
-Launch the utility: <br/>
+Identifying Mailhog running on port 8025:<br/>
 <img src="https://github.com/Arthran-M/Arthran-M/blob/a6ff3d61cae33e7a636015945ab868d76cb94359/Screenshots/image12.png" alt="image alt" width="80%" height="80%">
 <br />
 <br />
-Launch the utility: <br/>
+Creating a log file to store credentials captured the phishing simulation:<br/>
 <img src="https://github.com/Arthran-M/Arthran-M/blob/a6ff3d61cae33e7a636015945ab868d76cb94359/Screenshots/image14.png" alt="image alt" width="80%" height="80%">
 <br />
 <br />
-Launch the utility: <br/>
+Created a simulated phishing email: <br/>
 <img src="https://github.com/Arthran-M/Arthran-M/blob/a6ff3d61cae33e7a636015945ab868d76cb94359/Screenshots/image15.png" alt="image alt" width="80%" height="80%">
 <br />
 <br />
-Launch the utility: <br/>
+The phishing email has sucessfully appeared in Mailhog:<br/>
 <img src="https://github.com/Arthran-M/Arthran-M/blob/a6ff3d61cae33e7a636015945ab868d76cb94359/Screenshots/image16.png" alt="image alt" width="80%" height="80%">
 <br />
 <br />
-Launch the utility: <br/>
+Viewing the contents of the phishing email: <br/>
 <img src="https://github.com/Arthran-M/Arthran-M/blob/a6ff3d61cae33e7a636015945ab868d76cb94359/Screenshots/image17.png" alt="image alt" width="80%" height="80%">
 <br />
 <br />
-Launch the utility: <br/>
+The email polling script on the Linux workstation detecting that a new email has arrived : <br/>
 <img src="https://github.com/Arthran-M/Arthran-M/blob/a6ff3d61cae33e7a636015945ab868d76cb94359/Screenshots/image18.png" alt="image alt" width="80%" height="80%">
 <br />
 <br />
-Launch the utility: <br/>
+Simulated phishing webpage hosted on Kali Linux using Apache: <br/>
 <img src="https://github.com/Arthran-M/Arthran-M/blob/a6ff3d61cae33e7a636015945ab868d76cb94359/Screenshots/image19.png" alt="image alt" width="80%" height="80%">
 <br />
 <br />
-Launch the utility: <br/>
+Viewing the captured user input from the phishing webpage that have been stored in the credential log file on Kali Linux : <br/>
 <img src="https://github.com/Arthran-M/Arthran-M/blob/a6ff3d61cae33e7a636015945ab868d76cb94359/Screenshots/image21.png" alt="image alt" width="80%" height="80%">
 <br />
 <br />
@@ -168,11 +168,10 @@ Launch the utility: <br/>
 <img src="https://github.com/Arthran-M/Arthran-M/blob/a6ff3d61cae33e7a636015945ab868d76cb94359/Screenshots/image30.png" alt="image alt" width="80%" height="80%">
 <br />
 <br />
-Launch the utility: <br/>
-<img src="https://github.com/Arthran-M/Arthran-M/blob/a6ff3d61cae33e7a636015945ab868d76cb94359/Screenshots/image31.png" alt="image alt" width="80%" height="80%">
 </p>
 
-
+<h2>Disclaimer!</h2>
+The information i
 <h2>Lessons Learned</h2>
 
 
