@@ -81,7 +81,7 @@ Using Hydra with a custom password list to perform the credential brute force at
 <img src="https://github.com/Arthran-M/Arthran-M/blob/a6ff3d61cae33e7a636015945ab868d76cb94359/Screenshots/image10.png" alt="image alt" width="80%" height="80%">
 <br />
 <br />
-Successful authentication in the corporate server, resulting in root-level access  <br/>
+Successful authentication in the corporate server, resulting in root-level access:  <br/>
 <img src="https://github.com/Arthran-M/Arthran-M/blob/a6ff3d61cae33e7a636015945ab868d76cb94359/Screenshots/image11.png" alt="image alt" width="80%" height="80%">
 <br />
 <br />
