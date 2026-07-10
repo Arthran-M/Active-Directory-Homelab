@@ -43,9 +43,6 @@ and security operations workflows within a controlled lab environment.
 - <b>Ubuntu Server 2022</b> 
 - <b>Kali Linux</b> 
 
-<h2>Layout:</h2>
-
-
 
 
 <h2>Environment Configuration</h2>
@@ -160,16 +157,23 @@ Showing that the attacker account "project-x-user" has been added. Also shows "J
 
 <h2>Detection and Monitoring</h2>
 <p align="center">  
-Wazuh dashboard displaying triggered detection rules from the attack simulation: <br/>
+Wazuh dashboard displaying triggered detection rules from the attack simulations: <br/>
 <img src="https://github.com/Arthran-M/Arthran-M/blob/a6ff3d61cae33e7a636015945ab868d76cb94359/Screenshots/image30.png" alt="image alt" width="80%" height="80%">
 <br />
 <br />
 </p>
 
 <h2>Disclaimer!</h2>
+<p> 
 This project was conducted in an isolated virtual environment and is for educational purposes only! 
-<h2>Lessons Learned</h2>
+</p>
 
+<h2>Lessons Learned</h2>
+<p>
+Through this project, I have developed a deeper understanding of Active Directory administration, including domain configuration, user management and integrating client systems into a domain environment. 
+I have also gained hands-on experience configuring Windows and Linux systems, as well as deploying and configuring Wazuh agents. I also improved my troubleshooting skills when resolving networking,
+configuration and integration issues across multiple operating systems.
+</p>
 
 
 
