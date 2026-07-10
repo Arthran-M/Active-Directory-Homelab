@@ -160,14 +160,14 @@ Showing that the attacker account "project-x-user" has been added. Also shows "J
 
 <h2>Detection and Monitoring</h2>
 <p align="center">  
-Launch the utility: <br/>
+Wazuh dashboard displaying triggered detection rules from the attack simulation: <br/>
 <img src="https://github.com/Arthran-M/Arthran-M/blob/a6ff3d61cae33e7a636015945ab868d76cb94359/Screenshots/image30.png" alt="image alt" width="80%" height="80%">
 <br />
 <br />
 </p>
 
 <h2>Disclaimer!</h2>
-The information i
+This project was conducted in an isolated virtual environment and is for educational purposes only! 
 <h2>Lessons Learned</h2>
 
 
