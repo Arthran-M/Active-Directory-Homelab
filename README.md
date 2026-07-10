@@ -120,43 +120,39 @@ Viewing the captured user input from the phishing webpage that have been stored 
 <img src="https://github.com/Arthran-M/Arthran-M/blob/a6ff3d61cae33e7a636015945ab868d76cb94359/Screenshots/image21.png" alt="image alt" width="80%" height="80%">
 <br />
 <br />
-Launch the utility: <br/>
+Using NetExec to target the windows workstation, where the username and password have been obtained: <br/>
 <img src="https://github.com/Arthran-M/Arthran-M/blob/a6ff3d61cae33e7a636015945ab868d76cb94359/Screenshots/image22.png" alt="image alt" width="80%" height="80%">
 <br />
 <br />
-Launch the utility: <br/>
-<img src="https://github.com/Arthran-M/Arthran-M/blob/a6ff3d61cae33e7a636015945ab868d76cb94359/Screenshots/image22.png" alt="image alt" width="80%" height="80%">
-<br />
-<br />
-Launch the utility: <br/>
+Using Evil-WinRM to gain access to the windows workstation using the WinRM protocol: <br/>
 <img src="https://github.com/Arthran-M/Arthran-M/blob/a6ff3d61cae33e7a636015945ab868d76cb94359/Screenshots/image23.png" alt="image alt" width="80%" height="80%">
 <br />
 <br />
-Launch the utility: <br/>
+After using Nmap to confirm that port 3389 is open on the domain controller, XFreeRDP is used to gain access into the domain controller with RDP: <br/>
 <img src="https://github.com/Arthran-M/Arthran-M/blob/a6ff3d61cae33e7a636015945ab868d76cb94359/Screenshots/image24.png" alt="image alt" width="80%" height="80%">
 <br />
 <br />
-Launch the utility: <br/>
+Sucessfully compromised the domain controller with a remote session and UI access: <br/>
 <img src="https://github.com/Arthran-M/Arthran-M/blob/a6ff3d61cae33e7a636015945ab868d76cb94359/Screenshots/image25.png" alt="image alt" width="80%" height="80%">
 <br />
 <br />
-Launch the utility: <br/>
+Using the SCP utility to perform data exfiltration and copy the sensitive file into the Kali machine: <br/>
 <img src="https://github.com/Arthran-M/Arthran-M/blob/a6ff3d61cae33e7a636015945ab868d76cb94359/Screenshots/image26.png" alt="image alt" width="80%" height="80%">
 <br />
 <br />
-Launch the utility: <br/>
+Sucessfully obtained the sensitive file and can view the contents: <br/>
 <img src="https://github.com/Arthran-M/Arthran-M/blob/a6ff3d61cae33e7a636015945ab868d76cb94359/Screenshots/image27.png" alt="image alt" width="80%" height="80%">
 <br />
 <br />
-Launch the utility: <br/>
+Performing persistence by first provisioning a new account: <br/>
 <img src="https://github.com/Arthran-M/Arthran-M/blob/a6ff3d61cae33e7a636015945ab868d76cb94359/Screenshots/image28.png" alt="image alt" width="80%" height="80%">
 <br />
 <br />
-Launch the utility: <br/>
+Adding the new account to the local administrator group and domain admins: <br/>
 <img src="https://github.com/Arthran-M/Arthran-M/blob/a6ff3d61cae33e7a636015945ab868d76cb94359/Screenshots/image29.png" alt="image alt" width="80%" height="80%">
 <br />
 <br />
-Launch the utility: <br/>
+Showing that the attacker account "project-x-user" has been added. Also shows "John and Jane Doe", who are the users of the Windows and Linux workstations: <br/>
 <img src="https://github.com/Arthran-M/Arthran-M/blob/a6ff3d61cae33e7a636015945ab868d76cb94359/Screenshots/image01.png" alt="image alt" width="80%" height="80%">
 </p>
 
